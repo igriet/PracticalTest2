@@ -1,0 +1,7 @@
+C:\Users\eliseog\Documents\16R137\HousesArray\HousesArray\bin\Debug\HousesArray.exe.config
+C:\Users\eliseog\Documents\16R137\HousesArray\HousesArray\bin\Debug\HousesArray.exe
+C:\Users\eliseog\Documents\16R137\HousesArray\HousesArray\bin\Debug\HousesArray.pdb
+C:\Users\eliseog\Documents\16R137\HousesArray\HousesArray\obj\Debug\HousesArray.csprojAssemblyReference.cache
+C:\Users\eliseog\Documents\16R137\HousesArray\HousesArray\obj\Debug\HousesArray.csproj.CoreCompileInputs.cache
+C:\Users\eliseog\Documents\16R137\HousesArray\HousesArray\obj\Debug\HousesArray.exe
+C:\Users\eliseog\Documents\16R137\HousesArray\HousesArray\obj\Debug\HousesArray.pdb

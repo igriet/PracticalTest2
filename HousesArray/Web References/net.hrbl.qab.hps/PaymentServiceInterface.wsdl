@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:i0="http://schemas.herbalife.com/HerbalifePaymentSystem/V02/Service" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://schemas.herbalife.com/HerbalifePaymentSystem/V02/Service" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:import namespace="http://schemas.herbalife.com/HerbalifePaymentSystem/V02/Service" location="Schemas/HpsService.wsdl" />
+  <wsdl:types />
+  <wsdl:service name="HerbalifePaymentSystemService">
+    <wsdl:port name="HerbalifePaymentSystemService_Binding" binding="i0:HerbalifePaymentSystemService_Binding">
+      <soap:address location="https://hps.qab.hrbl.net/HpsWs/Extended/PaymentServiceInterface.asmx" />
+    </wsdl:port>
+    <wsdl:port name="HerbalifePaymentSystemService_Binding1" binding="i0:HerbalifePaymentSystemService_Binding">
+      <soap12:address location="https://hps.qab.hrbl.net/HpsWs/Extended/PaymentServiceInterface.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
